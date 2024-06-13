@@ -7,4 +7,6 @@
 # git init transforma ma pasta em repositorio git# git diff ve as mudanças realizadas no repositorio git
 # para sair do git diff basta clicar em q
 # git diff --staged ver as modificações em staged. 
-#git commit -m "modificação" salva as modificações finais
+# git commit -m "modificação" salva as modificações finais
+
+##teste
