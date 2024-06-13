@@ -1,0 +1,24 @@
+# Comandos GIT
+
+
+# git status - ve o status do arquivo
+# git add adiciona ele como git para fazer modificações, ex esse arquivo não era git. tive que adicionar para funcionar
+# git clone http - copia url de um git criado por alguém
+# git init transforma ma pasta em repositorio git# git diff ve as mudanças realizadas no repositorio git
+# para sair do git diff basta clicar em q
+# git diff --staged ver as modificações em staged. 
+# git commit -m "modificação" salva as modificações finais
+
+
+# git restore --staged arquivo - restaura de staged e vai para change
+# git restore -  restaura a ultima mudança salva.
+
+## salvar na nuvem
+*git remote
+*git pull area - jogao arquivo na rede
+*git fetcher - baixa a modificação feita na rede mas não sobe no meu arquivo.
+*git diff -  ve a modificação na internet
+*git push - baixa a mudança da internet no meu arquivo
+
+
+##teste
